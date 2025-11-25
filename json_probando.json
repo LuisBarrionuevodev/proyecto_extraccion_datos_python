@@ -1,0 +1,202 @@
+[
+    {
+        "nombre": "On the Road (Duluoz Legend)",
+        "precio": "\u00c2\u00a332.36",
+        "imagen_url": "https://books.toscrape.com/../media/cache/b8/3e/b83e5f1b9c1dcfe0ef05cff4b080e0fa.jpg"
+    },
+    {
+        "nombre": "Old Records Never Die: One Man's Quest for His Vinyl and His Past",
+        "precio": "\u00c2\u00a355.66",
+        "imagen_url": "https://books.toscrape.com/../media/cache/7e/94/7e947f3dd04f178175b85123829467a9.jpg"
+    },
+    {
+        "nombre": "Off Sides (Off #1)",
+        "precio": "\u00c2\u00a339.45",
+        "imagen_url": "https://books.toscrape.com/../media/cache/03/ed/03ed67ea504353b91b035151d8e80db2.jpg"
+    },
+    {
+        "nombre": "Of Mice and Men",
+        "precio": "\u00c2\u00a347.11",
+        "imagen_url": "https://books.toscrape.com/../media/cache/0f/ca/0fca4597765ffacdb7bd529fc5eb88fa.jpg"
+    },
+    {
+        "nombre": "Myriad (Prentor #1)",
+        "precio": "\u00c2\u00a358.75",
+        "imagen_url": "https://books.toscrape.com/../media/cache/6b/fa/6bfae8a489ff53f50467705c1e6fff19.jpg"
+    },
+    {
+        "nombre": "My Perfect Mistake (Over the Top #1)",
+        "precio": "\u00c2\u00a338.92",
+        "imagen_url": "https://books.toscrape.com/../media/cache/0d/03/0d03eb55ed070a53b6c4b6eedd48b458.jpg"
+    },
+    {
+        "nombre": "Ms. Marvel, Vol. 1: No Normal (Ms. Marvel (2014-2015) #1)",
+        "precio": "\u00c2\u00a339.39",
+        "imagen_url": "https://books.toscrape.com/../media/cache/f4/96/f496db4d78639e233978ae2bee021752.jpg"
+    },
+    {
+        "nombre": "Meditations",
+        "precio": "\u00c2\u00a325.89",
+        "imagen_url": "https://books.toscrape.com/../media/cache/df/c9/dfc9ed72e963572d23233b3a8cb01676.jpg"
+    },
+    {
+        "nombre": "Matilda",
+        "precio": "\u00c2\u00a328.34",
+        "imagen_url": "https://books.toscrape.com/../media/cache/03/47/0347bd215f4813edd81c2cd76bab53ca.jpg"
+    },
+    {
+        "nombre": "Lost Among the Living",
+        "precio": "\u00c2\u00a327.70",
+        "imagen_url": "https://books.toscrape.com/../media/cache/5a/40/5a40d914bc3491e5909f1167f9cb34f2.jpg"
+    },
+    {
+        "nombre": "Lord of the Flies",
+        "precio": "\u00c2\u00a324.89",
+        "imagen_url": "https://books.toscrape.com/../media/cache/33/73/3373a168b588e3fb19c558a21da71ac9.jpg"
+    },
+    {
+        "nombre": "Listen to Me (Fusion #1)",
+        "precio": "\u00c2\u00a358.99",
+        "imagen_url": "https://books.toscrape.com/../media/cache/00/dd/00dd43f59d255cbc16e9d9c9ed20a997.jpg"
+    },
+    {
+        "nombre": "Kitchens of the Great Midwest",
+        "precio": "\u00c2\u00a357.20",
+        "imagen_url": "https://books.toscrape.com/../media/cache/5e/37/5e379c1cc7003127bc74257a1b721540.jpg"
+    },
+    {
+        "nombre": "Jane Eyre",
+        "precio": "\u00c2\u00a338.43",
+        "imagen_url": "https://books.toscrape.com/../media/cache/0b/9b/0b9bd2c1de5ec402b2c797b53e5257f6.jpg"
+    },
+    {
+        "nombre": "Imperfect Harmony",
+        "precio": "\u00c2\u00a334.74",
+        "imagen_url": "https://books.toscrape.com/../media/cache/fb/29/fb299a516730a2f2602b10f945f7a8e5.jpg"
+    },
+    {
+        "nombre": "Icing (Aces Hockey #2)",
+        "precio": "\u00c2\u00a340.44",
+        "imagen_url": "https://books.toscrape.com/../media/cache/8d/1e/8d1e285bf672b2ea66879490cc5f6904.jpg"
+    },
+    {
+        "nombre": "Hawkeye, Vol. 1: My Life as a Weapon (Hawkeye #1)",
+        "precio": "\u00c2\u00a345.24",
+        "imagen_url": "https://books.toscrape.com/../media/cache/16/46/16460146a1a8b99c82da027368383ade.jpg"
+    },
+    {
+        "nombre": "Having the Barbarian's Baby (Ice Planet Barbarians #7.5)",
+        "precio": "\u00c2\u00a334.96",
+        "imagen_url": "https://books.toscrape.com/../media/cache/f4/83/f4835e9f3fdd8b8107bbb39a391654f0.jpg"
+    },
+    {
+        "nombre": "Giant Days, Vol. 1 (Giant Days #1-4)",
+        "precio": "\u00c2\u00a356.76",
+        "imagen_url": "https://books.toscrape.com/../media/cache/35/0b/350b1224dc46533851d5a34134e44842.jpg"
+    },
+    {
+        "nombre": "Fruits Basket, Vol. 1 (Fruits Basket #1)",
+        "precio": "\u00c2\u00a340.28",
+        "imagen_url": "https://books.toscrape.com/../media/cache/7c/c1/7cc13a8fb238202250e87843c1a62f94.jpg"
+    },
+    {
+        "nombre": "Frankenstein",
+        "precio": "\u00c2\u00a338.00",
+        "imagen_url": "https://books.toscrape.com/../media/cache/00/25/0025515e987a1ebd648773f9ac70bfe6.jpg"
+    },
+    {
+        "nombre": "Forever Rockers (The Rocker #12)",
+        "precio": "\u00c2\u00a328.80",
+        "imagen_url": "https://books.toscrape.com/../media/cache/7f/b0/7fb03a053c270000667a50dd8d594843.jpg"
+    },
+    {
+        "nombre": "Fighting Fate (Fighting #6)",
+        "precio": "\u00c2\u00a339.24",
+        "imagen_url": "https://books.toscrape.com/../media/cache/57/e2/57e255929f6e597c18cb3843904cd92b.jpg"
+    },
+    {
+        "nombre": "Emma",
+        "precio": "\u00c2\u00a332.93",
+        "imagen_url": "https://books.toscrape.com/../media/cache/09/63/09638baaef52f03827c215029c632a13.jpg"
+    },
+    {
+        "nombre": "Eat, Pray, Love",
+        "precio": "\u00c2\u00a351.32",
+        "imagen_url": "https://books.toscrape.com/../media/cache/21/95/2195c296e82620593a143356aeaa7745.jpg"
+    },
+    {
+        "nombre": "Deep Under (Walker Security #1)",
+        "precio": "\u00c2\u00a347.09",
+        "imagen_url": "https://books.toscrape.com/../media/cache/74/e4/74e4ec43c40926c7b57fc0fe0f397183.jpg"
+    },
+    {
+        "nombre": "Choosing Our Religion: The Spiritual Lives of America's Nones",
+        "precio": "\u00c2\u00a328.42",
+        "imagen_url": "https://books.toscrape.com/../media/cache/df/ab/dfabeab158046237ddb6b713b794909f.jpg"
+    },
+    {
+        "nombre": "Charlie and the Chocolate Factory (Charlie Bucket #1)",
+        "precio": "\u00c2\u00a322.85",
+        "imagen_url": "https://books.toscrape.com/../media/cache/d6/cc/d6cc0c66e34dfc214b406208bbaf18e2.jpg"
+    },
+    {
+        "nombre": "Charity's Cross (Charles Towne Belles #4)",
+        "precio": "\u00c2\u00a341.24",
+        "imagen_url": "https://books.toscrape.com/../media/cache/39/e0/39e008f84bbd24b49a7532c2024b855e.jpg"
+    },
+    {
+        "nombre": "Bright Lines",
+        "precio": "\u00c2\u00a339.07",
+        "imagen_url": "https://books.toscrape.com/../media/cache/12/43/1243e7eb614f57f0e4cfee80553fa312.jpg"
+    },
+    {
+        "nombre": "Bridget Jones's Diary (Bridget Jones #1)",
+        "precio": "\u00c2\u00a329.82",
+        "imagen_url": "https://books.toscrape.com/../media/cache/0c/32/0c329cbd2adf4e0dc825f892106673b2.jpg"
+    },
+    {
+        "nombre": "Bounty (Colorado Mountain #7)",
+        "precio": "\u00c2\u00a337.26",
+        "imagen_url": "https://books.toscrape.com/../media/cache/80/ff/80ff924ed78cd7c5172410d0d92f8dfe.jpg"
+    },
+    {
+        "nombre": "Blood Defense (Samantha Brinkman #1)",
+        "precio": "\u00c2\u00a320.30",
+        "imagen_url": "https://books.toscrape.com/../media/cache/cb/f6/cbf6d4b61953f29d7eedd2c9e01a9d74.jpg"
+    },
+    {
+        "nombre": "Bleach, Vol. 1: Strawberry and the Soul Reapers (Bleach #1)",
+        "precio": "\u00c2\u00a334.65",
+        "imagen_url": "https://books.toscrape.com/../media/cache/a8/38/a8383903c98af18b898b9d70d5be2c16.jpg"
+    },
+    {
+        "nombre": "Beyond Good and Evil",
+        "precio": "\u00c2\u00a343.38",
+        "imagen_url": "https://books.toscrape.com/../media/cache/ab/45/ab45f300aa15066ad1260d6f1398d03e.jpg"
+    },
+    {
+        "nombre": "Alice in Wonderland (Alice's Adventures in Wonderland #1)",
+        "precio": "\u00c2\u00a355.53",
+        "imagen_url": "https://books.toscrape.com/../media/cache/96/ee/96ee77d71a31b7694dac6855f6affe4e.jpg"
+    },
+    {
+        "nombre": "Ajin: Demi-Human, Volume 1 (Ajin: Demi-Human #1)",
+        "precio": "\u00c2\u00a357.06",
+        "imagen_url": "https://books.toscrape.com/../media/cache/09/7c/097cb5ecc6fb3fbe1690cf0cbdea4ac5.jpg"
+    },
+    {
+        "nombre": "A Spy's Devotion (The Regency Spies of London #1)",
+        "precio": "\u00c2\u00a316.97",
+        "imagen_url": "https://books.toscrape.com/../media/cache/1b/5f/1b5ff86f3c75e51e24c573d3f8bffd8f.jpg"
+    },
+    {
+        "nombre": "1st to Die (Women's Murder Club #1)",
+        "precio": "\u00c2\u00a353.98",
+        "imagen_url": "https://books.toscrape.com/../media/cache/2b/41/2b4161c5b72a4ae386b644682361b34a.jpg"
+    },
+    {
+        "nombre": "1,000 Places to See Before You Die",
+        "precio": "\u00c2\u00a326.08",
+        "imagen_url": "https://books.toscrape.com/../media/cache/d7/0f/d70f7edd92705c45a82118c3ff6c299d.jpg"
+    }
+]
